@@ -3,6 +3,7 @@
 # Objetivo
 Hacer uso  de diferentes comandos de nmap para la construsccion de un script para el analisis  de red 
 # Contenido
+***Automap***.  
 Un script de bash con menu que contiene opciones para:   
 Escaneo de subred.    
 Escaneo individual a una ip.    
