@@ -6,5 +6,5 @@ de protocolo de comunicacion
 
 # Contenido
 # ftpTransfer.py
- En el script se abre una conexion a un servidot ftp creado en una maquina virtual (Debian 11) para subir un archivo de texto 
- en una ruta especificada, una vez realizada la transferencia se cierra la conexion 
+ En el script se abre una conexion a un servidor ftp creado en una maquina virtual linux (Debian 11) para subir un archivo de texto 
+ en una ruta especificada, una vez realizada la transferencia se cierra la conexion.
