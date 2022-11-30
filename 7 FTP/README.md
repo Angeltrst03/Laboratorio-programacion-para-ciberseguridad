@@ -5,6 +5,6 @@ Se realizaron  practicas con el protocolo de transeferencia de archivos para con
 de protocolo de comunicacion
 
 # Contenido
-# ftpTransfer.py
+***ftpTransfer.py***.  
  En el script se abre una conexion a un servidor ftp creado en una maquina virtual linux (Debian 11) para subir un archivo de texto 
  en una ruta especificada, una vez realizada la transferencia se cierra la conexion.
