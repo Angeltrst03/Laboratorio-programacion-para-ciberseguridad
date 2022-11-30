@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
 
 # 27/Septiembre/2022  
 #Jorge Angel Valdez Tristan 1957496 
