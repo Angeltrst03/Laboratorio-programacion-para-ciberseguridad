@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Script number.sh
 # 27/Septiembre/2022 - Jorge Angel Valdez Tristan 
 read -p "Proporciona un numero para la variable 1: " n1
 read -p "Proporciona un numero para la variable 2: " n2
