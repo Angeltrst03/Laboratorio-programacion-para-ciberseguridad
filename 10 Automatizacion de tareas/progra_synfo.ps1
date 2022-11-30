@@ -1,4 +1,4 @@
-﻿
+#Jorge Angel Valdez Tristan 
 #$dir es la direccion donde se encuentra powershell 
 $dir = (get-command powershell.exe).Path
 
