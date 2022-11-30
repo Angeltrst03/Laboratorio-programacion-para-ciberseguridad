@@ -1,3 +1,4 @@
+# Jorge Angel Valdez Tristan 
 from cryptography.fernet import Fernet
 def genwrite ():
     key= Fernet.generate_key()
