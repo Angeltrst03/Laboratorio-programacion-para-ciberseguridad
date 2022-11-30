@@ -1,4 +1,6 @@
 #!/bin/bash
+# script welcome.sh
+
 # 27 septiembre 2022
 # Jorge Angel Valdez TRISTAN 
 #
