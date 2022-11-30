@@ -1,7 +1,7 @@
 Scripting en powershell
 
-#Objetivo
-Aprender la estrictura del scripting en powershell para eñ desarollo de scripts en ciberseguridad y en esta practica especificamente, en tema de escaneo de redes
+# Objetivo
+Aprender la estructura de scripting en powershell para el desarollo de scripts en ciberseguridad y en esta practica especificamente, en tema de escaneo de redes
 
 # Contenido (Scripts)
 # Scan_Alive2.ps1
