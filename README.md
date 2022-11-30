@@ -3,9 +3,8 @@
 # Proposito
 Este repositorio recopila  diferentes scripts realizados a lo largo del laboratorio de programacion para ciberseguridad haciendo uso de lenguages de programacion y scripting como Python, powershell y BASH  
 # Datos del autor
-Nombre : Jorge Angel Valdez Tristan  
-
-Matricula: 1957496
+***Nombre:*** Jorge Angel Valdez Tristan.  
+***Matricula:*** 1957496
 # Contenido
 [1 Manejo de APIs](https://github.com/Angeltrst03/Laboratorio-programacion-para-ciberseguridad/tree/main/1%20Manejo%20de%20APIs) Uso de APIs atraves de modulos como request y POST     
 [2 Scripting en powershell](https://github.com/Angeltrst03/Laboratorio-programacion-para-ciberseguridad/tree/main/2%20Scripting%20en%20Powershell) Estructura basica de la sintaxis,comandos y cmdlets en  powersheel  
